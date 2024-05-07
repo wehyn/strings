@@ -5,7 +5,7 @@
 #include "operations.h"
 using namespace std;
 
-int main() {
+int main() { // Main function
 	stringOp obj;
 	int choice;
 	char option;
