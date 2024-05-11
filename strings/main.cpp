@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cctype>
 #include <cstdlib>
-#include "operations.h"
+#include "data.h"
 using namespace std;
 
 int main() { // Main function

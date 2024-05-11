@@ -1,6 +1,6 @@
 //implementations of the class functions
 #include <iostream>
-#include "operations.h"
+#include "data.h"
 using namespace std;
 
 int stringOp::string_length() {
